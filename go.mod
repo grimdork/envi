@@ -1,4 +1,4 @@
-module github.com/Urethramancer/envi
+module github.com/grimdork/envi
 
 go 1.16
 
